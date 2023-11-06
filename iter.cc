@@ -1,3 +1,10 @@
+/**
+ * Simple demonstration of using shared_ptr
+ * and custom iterators.
+ * 
+ * @author: MathewThomas
+*/
+
 #include <iostream>
 #include <memory>
 
